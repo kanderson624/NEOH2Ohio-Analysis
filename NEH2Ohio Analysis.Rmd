@@ -1,0 +1,184 @@
+---
+title: "NEO H2Ohio"
+author: "Kenny Anderson"
+date: "2026-10-06"
+output: html_document
+---
+
+## Setup
+```{r, setup, include=FALSE}
+options(scipen =999)
+```
+
+```{r warning=FALSE, message=FALSE}
+library(tidyverse)
+library(readr)
+library(ggpubr)
+library(matrixStats)
+library(scales)
+library(patchwork)
+library(scales)
+library(Metrics)
+library(rlang)
+library(purrr)
+library(stringr)
+library(ggeffects)
+library(ggspatial)  # for map annotations (north arrow, scale bar)
+library(tidyterra)  # for handling and plotting raster data with ggplot2 (e.g., elevation)
+library(pals)       # for color palettes (kelly)
+library(sf)         # required to handle spatial data for maps
+library(maps)       # for map data (e.g., county boundaries)
+library(maptiles)   # for basemaps (e.g., Stamen Terrain)
+library(ggrepel)    # for improved label placement in maps
+library(magick)     # for image manipulation (e.g., adding logos to maps)
+library(tigris)     # for Ohio boundary
+library(lme4)       # run LME models
+library(MuMIn)      # get R2 values for LMEs
+library(lmerTest)   # get p values for LMEs
+library(emmeans)    # to run ANCOVA and make plots
+library(HH)
+library(Hmisc)
+library(cowplot)
+library(hydroloom) # get river lines
+library(tigris)
+```
+
+
+## Load in Data
+
+```{r}
+projects_df = read.csv("Data/h2ohio_projects.csv")
+neoH2Ohio_projects = projects_df %>% filter(name %in% c("MARR", "TRUC", "OLDS","LITW", "FORL", "GRFL","GERP"))
+neoH2Ohio_projects = neoH2Ohio_projects %>% mutate(project_code = name)
+```
+
+
+### Figure 1: Map of Projects
+
+```{r}
+# Download Ohio state boundary
+ohio_sf <- states(cb = TRUE) |> 
+  subset(NAME == "Ohio")
+tile_bbox <- st_as_sfc(st_bbox(ohio_sf, crs = st_crs(4326)))
+
+# that used ggmap/get_map instead of maptiles library
+tile <- get_tiles(tile_bbox, provider = "Esri.WorldGrayCanvas", zoom = 10)
+
+# Fetch all US county spatial data
+ohio_counties <- counties(state = "OH", cb = TRUE, class = "sf")
+
+# that flattens the earth properly for Ohio (e.g., Ohio North/South 3734/3735)
+ohio_counties_projected <- st_transform(ohio_counties, crs = 4326) 
+
+# Extent of map
+xlims <- range(neoH2Ohio_projects$lon) + c(-0.3, 0.3)
+ylims <- range(neoH2Ohio_projects$lat) + c(-0.3, 0.3)
+
+# Main map extent (adjust as needed)
+neo_bbox <- c(xmin = -84.0, xmax = -80.2, ymin = 40.4, ymax = 42.4)
+
+tile <- get_tiles(
+  tile_bbox,
+  provider = "Esri.WorldGrayCanvas",
+  zoom = 10
+)
+
+# Main NE Ohio map
+neh2ohio_map <-
+  ggplot() +
+  geom_spatraster_rgb(data = tile, alpha = 1) +
+  geom_sf(data = ohio_sf, fill = NA, color = "black", linewidth = 0.5) +
+  geom_sf(data = ohio_counties_projected,
+          fill = NA, color = "gray60", linewidth = 0.5) +
+    geom_point(
+    data = neoH2Ohio_projects,
+    aes(x = lon, y = lat),
+    shape = 23,
+    fill = "gray30",
+    stroke = 0.8,
+    size = 3
+  ) +
+  geom_text_repel(
+    data = neoH2Ohio_projects,
+    aes(x = lon, y = lat, label = project_code),
+    size = 3,
+    box.padding = 0.3,
+    point.padding = 0.2,
+    max.overlaps = Inf
+  ) +
+  annotation_scale(
+    location = "bl",
+    text_face = "bold",
+    line_width = 2,
+    width_hint = 0.25
+  ) +
+  annotation_north_arrow(
+    location = "br",
+    which_north = "true",
+    style = north_arrow_fancy_orienteering(
+      fill = c("black", "black"),
+      line_col = NA
+    )
+  ) +
+ coord_sf(
+  xlim = range(neoH2Ohio_projects$lon) + c(-0.3, 0.3),
+  ylim = range(neoH2Ohio_projects$lat) + c(-0.3, 0.3),
+  expand = FALSE
+) +
+  theme_bw() +
+  theme(
+    axis.title = element_blank(),
+    axis.text = element_blank(),
+    axis.ticks = element_blank(),
+    legend.position = "top"
+  )
+neh2ohio_map
+
+# now make a whole state map to stick in corner: 
+# Rectangle showing NE Ohio extent
+neo_extent <- st_as_sfc(
+  st_bbox(
+    c(
+      xmin = xlims[1],
+      xmax = xlims[2],
+      ymin = ylims[1],
+      ymax = ylims[2]
+    ),
+    crs = st_crs(4326)
+  )
+)
+
+# State inset map
+inset_map <-
+  ggplot() +
+  geom_sf(data = ohio_sf,
+          fill = "white",
+          color = "black",
+          linewidth = 0.4) +
+  geom_sf(data = neo_extent,
+          fill = NA,
+          color = "red",
+          linewidth = 1) +
+  theme_void() +
+  theme(
+    panel.background = element_rect(
+      fill = "white",
+      color = "black"
+    )
+  )
+
+
+final_map <-
+  ggdraw() +
+  draw_plot(neh2ohio_map) +
+  draw_plot(
+    inset_map,
+    x = 0.67,
+    y = 0.63,
+    width = 0.28,
+    height = 0.28
+  )
+
+final_map
+
+```

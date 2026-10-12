@@ -1,0 +1,209 @@
+map_label,project_id,project_name,short_name,name,label,num_code,monitoring_year,field_crew,county_name,county_cd,samp_loc,veg_site,wcs_info,sensor_network,lat,lon,monitoring_intensity,project_category,sampling_intensity
+1,M32001,Bright Conservation Area Wetland Restoration Initiative,Bright Wetland,BRIC,1_Bright Wetland,1_BRIC,2024,HU,Hancock,HAN,yes,no,yes,no,41.018,-83.557,a non-focal project,non-focal,FO
+2,C18002,Old Station Road,Old Station Road,OLDS,2_Old Station Road,2_OLDS,TBD,KS,Cuyahoga,CUY,yes,no,no,no,41.32048,-81.59162,a non-focal project,non-focal,NF1
+3,W48003,Maumee Bay State Park Wetland Reconnection,Maumee Bay State Park,MAUB,3_Maumee Bay State Park,3_MAUB,TBD,UT,Lucas,LUC,yes,no,yes,no,41.68652,-83.3582,a non-focal project,non-focal,NF2
+4,W48004,Ottawa National Wildlife Refuge Wetland Reconnection Projects,Ottawa NWR,OTTN,4_Ottawa NWR,4_OTTN,2022,UT,Lucas,LUC,yes,no,yes,no,41.63663,-83.215,a non-focal project,non-focal,NF1
+5,W62005,Magee Marsh Turtle Creek Bay Wetland Reconnection,Magee Marsh,MAGM,5_Magee Marsh,5_MAGM,2022,UT,Ottawa,OTT,yes,yes,yes,yes,41.60535,-83.1525,an intensively monitored focal project,focal,FO
+6,M86006,OSU Montpelier Wetland Restoration,Montpelier Wetland,MONW,6_Montpelier Wetland,6_MONW,TBD,BG,Williams,WIL,yes,no,no,no,41.58308,-84.62901,a non-focal project,non-focal,NF2
+7,W72007,Raccoon Creek Nature-Based Barrier Wetland,Raccoon Creek,RACC,7_Raccoon Creek,7_RACC,TBD,KS,Sandusky,SAN,no,no,no,no,41.443,-82.9678,a non-focal project,non-focal,NF2
+8,M48008,"Mallard Club Reconnection, Phase II",Mallard Club Phase II,MCPT,8_Mallard Club Phase II,8_MCPT,TBD,,Lucas,LUC,no,no,no,no,41.67848,-83.34217,a non-focal project,non-focal,NF2
+9,W72009,Pickerel Creek Floodplain Restoration,Pickerel Creek,PICC,9_Pickerel Creek,9_PICC,TBD,KS,Sandusky,SAN,yes,no,no,no,41.42372,-82.95318,a non-focal project,non-focal,NF2
+10,M86010,St. Joseph Confluence Wetland Reconnection,St. Joe's Confluence,SJCO,10_St. Joe's Confluence,10_SJCO,2022,BG,Williams,WIL,yes,no,no,yes,41.64808,-84.5644,a non-focal project,non-focal,NF2
+11,M86011,St. Joseph's River Restoration Project,St. Joe's Restoration/Farm & Floodplain,SJRE,11_St. Joe's Restoration/Farm & Floodplain,11_SJRE,2022,BG,Williams,WIL,yes,yes,no,yes,41.51886,-84.7084,an intensively monitored focal project,focal,FO
+12,M48012,Mallard Club Nutrient Reduction and Orchid Restoration,Mallard Club,MALC,12_Mallard Club,12_MALC,TBD,UT,Lucas,LUC,no,no,no,no,41.6892,-83.346,a non-focal project,non-focal,NF2
+13,M48013,Oak Openings Preserve Wetland Restoration,Oak Openings Preserve,OOPR,13_Oak Openings Preserve,13_OOPR,2022,BG,Lucas,LUC,yes,no,no,yes,41.58036,-83.8678,a non-focal project,non-focal,NF2
+14,W62014,North Ridge Hunt Club Wetland Restoration,North Ridge,NORR,14_North Ridge,14_NORR,2022,UT,Ottawa,OTT,yes,no,yes,no,41.581,-83.184,a non-focal project,non-focal,NF1
+15,W62015,Little Portage Nutrient Reduction & Coastal Wetland Restoration,Little Portage,LITP,15_Little Portage,15_LITP,TBD,UT,Ottawa,OTT,yes,no,yes,no,41.49582,-83.0373,a non-focal project,non-focal,NF1
+16,W72016,Redhorse Bend Preserve Wetland Restoration,Redhorse Bend,REDB,16_Redhorse Bend,16_REDB,2022,HU,Sandusky,SAN,yes,yes,no,yes,41.36625,-83.1039,an intensively monitored focal project,focal,FO
+17,M63017,Forder Bridge Floodplain Reconnection,Forder Bridge,FORB,17_Forder Bridge,17_FORB,2022,BG,Paulding,PAU,yes,yes,no,yes,41.21932,-84.6727,an intensively monitored focal project,focal,FO
+18,M20018,Independence Dam Canal Reconnection & Wetland Creation,Independence Dam,INDD,18_Independence Dam,18_INDD,TBD,HU,Defiance,DEF,no,no,no,no,41.2927,-84.2832,a non-focal project,non-focal,NF2
+19,M69019,Blanchard River Floodplain Restoration,Blanchard River,BLAR,19_Blanchard River,19_BLAR,2023,HU,Putnam,PUT,yes,no,no,yes,41.027,-84.051,a non-focal project,non-focal,NF1
+20,M32020,"Oakwoods Nature Preserve Wetland Restoration Project, West",Oakwoods West,OAKW,20_Oakwoods West,20_OAKW,2022,BG,Hancock,HAN,yes,yes,yes,yes,41.024,-83.696,an intensively monitored focal project,focal,FO
+21,M32021,"Oakwoods Nature Preserve Wetland Restoration Project, East",Oakwoods East,OAKE,21_Oakwoods East,21_OAKE,2022,BG,Hancock,HAN,yes,yes,no,yes,41.025,-83.68,an intensively monitored focal project,focal,FO
+22,W74022,Fruth Wetland Nature Preserve,Fruth Wetland,FRUW,22_Fruth Wetland,22_FRUW,2022,HU,Seneca,SEN,yes,no,no,yes,41.13147,-83.3654,a non-focal project,non-focal,NF1
+23,M88023,Andreoff Wetland Restoration,Andreoff Wetland,ANDW,23_Andreoff Wetland,23_ANDW,2023,HU,Wyandot,WYA,yes,no,no,no,40.75722,-83.4943,a non-focal project,non-focal,NF1
+24,W17024,Sandusky River Headwaters Preserve Wetland & Habitat Restoration,Sandusky River Headwaters,SRHE,24_Sandusky River Headwaters,24_SRHE,2022,HU,Crawford,CRA,yes,no,no,yes,40.7927,-82.7907,a non-focal project,non-focal,NF1
+25,M35025,Van Order Wetland & Forest Restoration,Van Order,VANO,25_Van Order,25_VANO,2022,BG,Henry,HEN,yes,no,no,yes,41.48446,-83.9094,a non-focal project,non-focal,NF2
+26,W62026,Navarre Marsh Wetland Restoration & Reconnection,Navarre Marsh,NAVM,26_Navarre Marsh,26_NAVM,TBD,UT,Ottawa,OTT,no,no,yes,no,41.59874,-83.0775,a non-focal project,non-focal,NF2
+27,M02027,Baughman H2Ohio Wetland Restoration Project,Baughman Ditch,BAUD,27_Baughman Ditch,27_BAUD,2024,WS,Allen,ALL,yes,no,no,no,40.779,-84.11,a non-focal project,non-focal,NF1
+28,W22028,Sanford Agricultural Drainage Treatment Train Project,Sanford Ag Drainage,SADR,28_Sanford Ag Drainage,28_SADR,TBD,KS,Erie,ERI,no,no,no,no,41.44902,-82.78922,a non-focal project,non-focal,NF2
+29,M20029,Defiance East River Drive,Defiance East River,DERI,29_Defiance East River,29_DERI,TBD,HU,Defiance,DEF,no,no,no,no,41.29246,-84.32663,a non-focal project,non-focal,NF2
+30,M74030,Springville Marsh Wetland Extension,Springville Marsh,SPRM,30_Springville Marsh,30_SPRM,2023,HU,Seneca,SEN,yes,no,no,yes,41.007,-83.402,a non-focal project,non-focal,NF2
+31,M35031,Rotary Riverside Preserve Restoration,Maumee River Floodplain,MAUR,31_Maumee River Floodplain,31_MAUR,2023,BG,Henry,HEN,yes,no,no,no,41.4148,-84.0307,a non-focal project,non-focal,NF2
+32,W72032,Buehler Farms Treatment Wetland,Buehler Farms,BUEF,32_Buehler Farms,32_BUEF,2023,HU,Sandusky,SAN,yes,no,yes,yes,41.4488,-83.0619,a non-focal project,non-focal,NF2
+33,M86033,The Weisgerber-Pohlman Nature Preserve Restoration,Weisgerber-Pohlman,WEIP,33_Weisgerber-Pohlman,33_WEIP,2022,BG,Williams,WIL,yes,no,no,yes,41.4294,-84.399,a non-focal project,non-focal,NF2
+34,M48034,Clark Island Restoration,Clark Island,CLAI,34_Clark Island,34_CLAI,TBD,UT,Lucas,LUC,no,no,no,no,41.61536,-83.57775,a non-focal project,non-focal,NF2
+35,M26035,Goll Woods Wetland Extension,Goll Woods,GOLW,35_Goll Woods,35_GOLW,TBD,BG,Fulton,FUL,no,no,no,no,41.55586,-84.35086,a non-focal project,non-focal,NF2
+36,M48036,Duck and Otter Creek Wetland and Stream Restoration,Duck and Otter,DUCO,36_Duck and Otter,36_DUCO,TBD,UT,Lucas,LUC,yes,no,no,no,41.67031,-83.47613,a non-focal project,non-focal,NF2
+37,W74037,Clary-Boulee-McDonald Nature Preserve,Clary-Boulee-McDonald,CBMC,37_Clary-Boulee-McDonald,37_CBMC,2024,HU,Seneca,SEN,yes,no,no,yes,41.23139,-83.26845,a non-focal project,non-focal,NF1
+38,C52038,Bluebell Preserve Restoration Project,Bluebell Preserve,BLUP,38_Bluebell Preserve,38_BLUP,TBD,KS,Medina,MED,no,no,no,no,41.03992,-82.03711,a non-focal project,non-focal,NF2
+39,W62039,Rust Tract Wetland Restoration,Rust Tract,RUST,39_Rust Tract,39_RUST,TBD,UT,Ottawa,OTT,no,no,no,no,41.5851,-83.145,a non-focal project,non-focal,NF2
+40,C47040,Martin's Run Wetland and Stream Restoration Project,Martin's Run,MARR,40_Martin's Run,40_MARR,2024,KS,Lorain,LOR,yes,no,no,yes,41.41805,-82.1675,a non-focal project,non-focal,NF1
+41,C67041,The Bird Family Bog Rehabilitation Project,Bird Bog,BIRB,41_Bird Bog,41_BIRB,TBD,KS,Portage,POR,no,no,no,no,41.0841,-81.2955,a non-focal project,non-focal,NF2
+42,C43042,Headlands Dunes Coastal Wetland Restoration Project,Headlands Dunes,HEAD,42_Headlands Dunes,42_HEAD,TBD,KS,Lake,LAK,no,no,no,no,41.7542,-81.2933,a non-focal project,non-focal,NF2
+43,C18043,Fosters Run Restoration,Fosters Run,FOSR,43_Fosters Run,43_FOSR,TBD,KS,Cuyahoga,CUY,no,no,no,no,41.55172,-81.42374,a non-focal project,non-focal,NF2
+44,C04044,Ashcroft Woods Scali Preserve,Ashcroft Woods,ASHW,44_Ashcroft Woods,44_ASHW,TBD,KS,Ashtabula,ATB,no,no,no,no,41.56771,-80.88122,a non-focal project,non-focal,NF2
+45,C43045,Chagrin River & East Branch Corridor Restoration & Protection Project,Chagrin River,CHAR,45_Chagrin River,45_CHAR,TBD,KS,Lake,LAK,no,no,no,no,41.62966,-81.40005,a non-focal project,non-focal,NF2
+46,M88046,Upper Blanchard River Watershed Project,Upper Blanchard,UPPB,46_Upper Blanchard,46_UPPB,2023,HU,Wyandot,WYA,yes,no,yes,yes,40.76264,-83.49423,a non-focal project,non-focal,NF1
+47,M63047,Sugarcamp 7 Blanchard Habitat Project,Sugarcamp 7,SUGB,47_Sugarcamp 7,47_SUGB,2023,HU,Paulding,PAU,yes,no,no,yes,41.05034,-84.13257,a non-focal project,non-focal,NF1
+48,C52048,Litchfield Wetland Restoration,Litchfield Wetland,LITW,48_Litchfield Wetland,48_LITW,TBD,KS,Medina,MED,yes,no,yes,no,41.19646,-82.02753,a non-focal project,non-focal,NF1
+49,C04049,Trumbull Creek H2Ohio,Trumbull Creek,TRUC,49_Trumbull Creek,49_TRUC,2023,KS,Ashtabula,ATB,yes,no,yes,no,41.6618,-80.9904,a non-focal project,non-focal,NF1
+50,M87050,Fox-Shank Living Laboratory,Otsego Schools,OTSS,50_Otsego Schools,50_OTSS,2024,BG,Wood,WOO,yes,no,no,no,41.424,-83.741,a non-focal project,non-focal,NF2
+51,C43051,Arcola Creek Stream and Wetland Restoration,Madison Village,MADV,51_Madison Village,51_MADV,TBD,KS,Lake,LAK,no,no,no,no,41.793,-81.049,a non-focal project,non-focal,NF2
+52,M06052,City of St Marys Treatment Train,St. Mary's,STMA,52_St. Mary's,52_STMA,TBD,WS,Auglaize,AUG,yes,no,yes,no,40.5341,-84.37589,a non-focal project,non-focal,NF1
+53,M69053,Auglaize River Riparian and Wetland Restoration,Auglaize River Riparian,ARRI,53_Auglaize River Riparian,53_ARRI,TBD,,Putnam,PUT,no,no,no,no,40.9885,-84.2443,a non-focal project,non-focal,NF2
+54,S23054,Elias B. Wagner Preserve,Wagner Preserve,WAGP,54_Wagner Preserve,54_WAGP,TBD,,Fairfield,FAI,no,no,no,no,39.6356,-82.5632,a non-focal project,non-focal,NF2
+55,W48055,Ford Two Stage Ditch,Ford Two Stage Ditch,FTSD,55_Ford Two Stage Ditch,55_FTSD,TBD,UT,Lucas,LUC,no,no,no,no,41.71223,-83.78127,a non-focal project,non-focal,NF2
+56,C18056,CHEERS Project: floating wetlands,CHEERS,CHEE,56_CHEERS,56_CHEE,TBD,KS,Cuyahoga,CUY,no,no,no,no,41.53591,-81.64659,a non-focal project,non-focal,NF2
+57,W62057,Toussaint Shooting Club Reconnections: Bob's Bay & Main Marsh,Toussaint Shooting Club,TOUS,57_Toussaint Shooting Club,57_TOUS,TBD,UT,Ottawa,OTT,no,no,no,no,41.5693,-83.0535,a non-focal project,non-focal,NF2
+58,W62058,Bohling Marsh Wetland Reconnection,Bohling Marsh,BOHM,58_Bohling Marsh,58_BOHM,2022,UT,Ottawa,OTT,no,no,no,no,41.534,-83.007,a non-focal project,non-focal,NF2
+59,W62059,Darby Refuge Wetland Reconnection,Darby Refuge,DARR,59_Darby Refuge,59_DARR,2022,UT,Ottawa,OTT,yes,no,yes,no,41.53431,-83.006,a non-focal project,non-focal,NF2
+60,S54060,Burntwood-Langenkamp Wetland Conservation Area,Burntwood-Langenkamp,BWLK,60_Burntwood-Langenkamp,60_BWLK,2023,WS,Mercer,MER,yes,yes,yes,no,40.50103,-84.5957,an intensively monitored focal project,focal,FO
+61,S23061,Brooks Park Wetland Creation & Water Quality Initiative,Brooks Park,BROP,61_Brooks Park,61_BROP,2022,WS,Fairfield,FAI,yes,yes,no,no,39.90057,-82.5162,an intensively monitored focal project,focal,FO
+62,S52062,Chippewa Lake Wetland Restoration,Chippewa Lake,CHIL,62_Chippewa Lake,62_CHIL,TBD,KS,Medina,MED,yes,no,no,no,41.06424,-81.90235,a non-focal project,non-focal,NF1
+63,S13063,Williamsburg Wetland Treatment System,East Fork Lake,EFLA,63_East Fork Lake,63_EFLA,TBD,WS,Clermont,CLE,yes,no,no,no,39.06502,-84.05329,a non-focal project,non-focal,NF2
+64,S55064,Springcreek Confluence Off-Channel Wetlands,Springcreek Confluence,SPRC,64_Springcreek Confluence,64_SPRC,2022,WS,Miami,MIA,yes,no,no,no,40.0682,-84.21191,a non-focal project,non-focal,NF1
+65,S55065,Tipp City Off-Channel Wetland,Tipp City,TIPC,65_Tipp City,65_TIPC,2023,WS,Miami,MIA,yes,no,no,no,39.9591,-84.14392,a non-focal project,non-focal,NF1
+66,S21066,O'Donnell Wetland Restoration and Treatment Train,O'Donnell Wetland,ODOW,66_O'Donnell Wetland,66_ODOW,TBD,WS,Delaware,DEL,yes,no,no,no,40.37942,-83.03713,a non-focal project,non-focal,NF2
+67,S54067,Mercer Wetland Complex Restoration,Mercer Wetland,MERW,67_Mercer Wetland,67_MERW,TBD,WS,Mercer,MER,yes,no,yes,no,40.4983,-84.56846,a non-focal project,non-focal,NF1
+68,S70068,Black Fork Forest Preserve Wetland Restoration Project,Black Fork,BLAF,68_Black Fork,68_BLAF,TBD,HU,Richland,RIC,no,no,no,no,40.79944,-82.4135,a non-focal project,non-focal,NF1
+69,S85069,Funk Bottoms Wetland Restoration,Funk Bottoms,FUNB,69_Funk Bottoms,69_FUNB,TBD,KS,Wayne,WAY,no,no,no,no,40.763,-82.112,a non-focal project,non-focal,NF2
+70,S09070,Westchester Wetland Restoration,Westchester Wetland,WESW,70_Westchester Wetland,70_WESW,TBD,WS,Butler,BUT,no,no,no,no,39.3443,-84.47403,a non-focal project,non-focal,NF2
+71,S25071,Walnut Creek Treatment Wetland Restoration,Walnut Creek,WALC,71_Walnut Creek,71_WALC,TBD,WS,Franklin,FRA,yes,no,yes,no,39.8329,-82.89184,a non-focal project,non-focal,NF1
+72,S50072,Forest Lawn Stormwater Park,Forest Lawn,FORL,72_Forest Lawn,72_FORL,TBD,KS,Mahoning,MAH,yes,no,no,no,41.04203,-80.66087,a non-focal project,non-focal,NF1
+73,S38073,Reconnecting to Killbuck Creek,Killbuck Creek,KILC,73_Killbuck Creek,73_KILC,TBD,KS,Holmes,HOL,no,no,no,no,40.53435,-81.92128,a non-focal project,non-focal,NF2
+74,S25074,Hellbranch Meadows West Wetland Restoration Project,Hellbranch Meadows,HELB,74_Hellbranch Meadows,74_HELB,TBD,WS,Franklin,FRA,no,no,no,no,39.93104,-83.18752,a non-focal project,non-focal,NF2
+75,S85075,East Funk Bottoms,East Funk Bottoms,EFBO,75_East Funk Bottoms,75_EFBO,TBD,KS,Wayne,WAY,no,no,no,no,40.75493,-82.11321,a non-focal project,non-focal,NF2
+76,S57076,Spring Run Conservation Area Wetland Restoration Project,Spring Run,SPRR,76_Spring Run,76_SPRR,TBD,WS,Montgomery,MOT,yes,no,no,no,39.78664,-84.33383,a non-focal project,non-focal,NF2
+77,S52077,Chippewa Creek Floodplain and Wetland Restoration Project,Chippewa Floodplain,CHIF,77_Chippewa Floodplain,77_CHIF,TBD,KS,Medina,MED,no,no,no,no,41.02644,-81.88267,a non-focal project,non-focal,NF2
+78,S09079,Indian Creek - Hoffmann Wetland and Stream Restoration,Indian Creek,INDC,78_Indian Creek,78_INDC,TBD,WS,Butler,BUT,yes,no,no,no,39.45002,-84.7709,a non-focal project,non-focal,NF2
+79,S31080,Gorman Heritage Farm Treatment Wetland System,Gorman Farm,GORF,79_Gorman Farm,79_GORF,TBD,WS,Hamilton,HAM,yes,no,no,no,39.24317,-84.42294,a non-focal project,non-focal,NF2
+80,S79081,Taggarts Wetland Enhancement & Acid Mine Drainage Abatement,Taggarts Wetland,TAGW,80_Taggarts Wetland,80_TAGW,TBD,,Tuscarawas,TUS,no,no,no,no,40.6054,-81.33196,a non-focal project,non-focal,NF2
+81,M81081,Bandore Park Restoration,Bandore Park,BANP,81_Bandore Park,81_BANP,TBD,,Van Wert,VAN,no,no,no,no,41.6614,-83.6555,a non-focal project,non-focal,NF2
+82,W62082,Tallman/Finn Wetland Restoration,Tallman/Finn Wetland,TFWE,82_Tallman/Finn Wetland,82_TFWE,TBD,,Ottawa,OTT,no,no,no,no,41.5768,-83.1647,a non-focal project,non-focal,NF2
+83,S08083,East Fork Riparian Reserve Wetland Treatment System,East Fork Riparian Reserve,EFRR,83_East Fork Riparian Reserve,83_EFRR,TBD,,Brown,BRO,no,no,no,no,39.234,-83.833,a non-focal project,non-focal,NF2
+84,C47102,Woodpecker Ditch - Meachland Wetland Restoration,Woodpecker Ditch,WOOD,84_Woodpecker Ditch,84_WOOD,TBD,KS,Lorain,LOR,no,no,no,no,41.10037,-82.28359,a non-focal project,non-focal,NF2
+85,S65085,Fleming Bend Protection and Restoration,Fleming Bend,FLEB,85_Fleming Bend,85_FLEB,TBD,,Pickaway,PIC,no,no,no,no,39.59488,-82.9559,a non-focal project,non-focal,NF2
+86,M48086,UT CADE Wetland and Stream Restoration,UT CADE,CADE,86_UT CADE,86_CADE,TBD,UT,Lucas,LUC,no,no,no,no,41.65654,-83.64873,a non-focal project,non-focal,NF2
+87,C77087,Cuyahoga River Riparian Forest and Wetland Restoration,Cuyahoga Riparian Forest,CUYR,87_Cuyahoga Riparian Forest,87_CUYR,TBD,KS,Summit,SUM,no,no,no,no,41.253,-81.55,a non-focal project,non-focal,NF2
+88,W48088,Cedar Point National Wildlife Refuge Pool 2 Coastal Reconnection,Cedar Point Pool 2,CPNW,88_Cedar Point Pool 2,88_CPNW,TBD,UT,Lucas,LUC,no,no,yes,no,41.672,-83.291,a non-focal project,non-focal,NF2
+89,W22008,Moxley Wildlife Area Wetland Reconnection Project,Moxley Wildlife Area,MOXW,89_Moxley Wildlife Area,89_MOXW,TBD,UT,Erie,ERI,yes,no,no,no,41.46287,-82.80014,a non-focal project,non-focal,NF2
+90,W88090,Killdeer Reservoir Wetland Project,Killdeer Reservoir,KILR,90_Killdeer Reservoir,90_KILR,TBD,HU,Wyandot,WYA,no,no,no,no,40.71173,-83.3872,a non-focal project,non-focal,NF1
+91,W62091,Portage Corridor Expansion,Crane Creek,CRAC,91_Crane Creek,91_CRAC,TBD,UT,Ottawa,OTT,no,no,no,no,41.60164,-83.22885,a non-focal project,non-focal,NF2
+92,M35092,Mary Jane Thurston Wetlands,Mary Jane Thurston Wetlands,MJTW,92_Mary Jane Thurston Wetlands,92_MJTW,TBD,BG,Henry,HEN,no,no,no,no,41.41186,-83.89104,a non-focal project,non-focal,NF2
+93,M35093,Juhasz Wetland Restoration,Juhasz Wetland,JUHW,93_Juhasz Wetland,93_JUHW,TBD,BG,Henry,HEN,no,no,no,no,41.44298,-83.9534,a non-focal project,non-focal,NF2
+94,M69094,Putnam Oxbow Restoration,Putnam Oxbow,PUTO,94_Putnam Oxbow,94_PUTO,TBD,HU,Putnam,PUT,no,no,no,no,41.009,-84.025,a non-focal project,non-focal,NF2
+95,M02095,Elizabeth St Stormwater Control (Village of Spencerville),Spencerville Stormwater,SPES,95_Spencerville Stormwater,95_SPES,TBD,WS,Allen,ALL,yes,no,no,no,40.70459,-84.35337,a non-focal project,non-focal,NF2
+96,S21096,Perfect Creek Treatment Wetlands,Perfect Creek,PERC,96_Perfect Creek,96_PERC,TBD,WS,Delaware,DEL,yes,no,no,no,40.26253,-82.81782,a non-focal project,non-focal,NF2
+97,S65097,Genevieve Jones Preserve Floodplain and Wetland Restoration,Cooks Creek,COOC,97_Cooks Creek,97_COOC,TBD,WS,Pickaway,PIC,no,no,no,no,39.68585,-82.98447,a non-focal project,non-focal,NF2
+98,S25098,Big Darby Creek Treatment Wetland,Big Darby Creek,BDCR,98_Big Darby Creek,98_BDCR,TBD,WS,Franklin,FRA,no,no,no,no,39.85871,-83.21095,a non-focal project,non-focal,NF2
+99,S05099,Hocking River Riparian Restoration,Hocking River,HOCR,99_Hocking River,99_HOCR,TBD,WS,Athens,ATH,no,no,no,no,39.3954,-82.1254,a non-focal project,non-focal,NF2
+100,S50100,"Stream, Floodplain, and Wetland Restoration at Mill Creek Golf Course",Mill Creek Golf Course,MCGC,100_Mill Creek Golf Course,100_MCGC,TBD,KS,Mahoning,MAH,no,no,no,no,41.04346,-80.6964,a non-focal project,non-focal,NF2
+101,S57101,Holes Creek Restoration and Habitat Enhancement,Holes Creek,HOLC,101_Holes Creek,101_HOLC,TBD,WS,Montgomery,MOT,no,no,no,no,39.6505,-84.18425,a non-focal project,non-focal,NF2
+102,S85102,Killbuck Creek Headwaters Preservation and Restoration,Killbuck Creek Headwaters,KCHE,102_Killbuck Creek Headwaters,102_KCHE,TBD,KS,Wayne,WAY,no,no,no,no,40.94579,-81.97204,a non-focal project,non-focal,NF2
+103,S09103,Dry Fork Streambank Stabilization at Governor Bebb MetroPark,Dry Fork,DRYF,103_Dry Fork,103_DRYF,TBD,WS,Butler,BUT,no,no,no,no,39.36965,-84.80797,a non-focal project,non-focal,NF2
+104,S12104,Rainbow Run Wetlands,Rainbow Run,RAIR,104_Rainbow Run,104_RAIR,TBD,WS,Clark,CLA,no,no,no,no,39.81606,-83.81244,a non-focal project,non-focal,NF2
+105,S54105,Coldwater Wetlands Park,Coldwater Wetlands,COLW,105_Coldwater Wetlands,105_COLW,TBD,WS,Mercer,MER,yes,no,no,no,40.47173,-84.64021,a non-focal project,non-focal,NF2
+106,S57106,Sycamore State Park Wetland Restoration,Sycamore Wetland Restoration,SWRE,106_Sycamore Wetland Restoration,106_SWRE,TBD,,Montgomery,MOT,no,no,no,no,39.8138,-84.3684,a non-focal project,non-focal,NF2
+107,S70107,Clear Fork Preserve,Clear Fork,CLEF,107_Clear Fork,107_CLEF,TBD,,Richland,RIC,no,no,no,no,40.71622,-82.70034,a non-focal project,non-focal,NF2
+108,S49108,Merriman Floodplain Restoration,Little Darby Stormwater,LDST,108_Little Darby Stormwater,108_LDST,TBD,,Madison,MAD,no,no,no,no,39.9558,-83.30884,a non-focal project,non-focal,NF2
+109,C77109,Schafer's Landing,Riverwood Restoration,RIVR,109_Riverwood Restoration,109_RIVR,TBD,KS,Summit,SUM,no,no,no,no,41.14102,-81.56176,a non-focal project,non-focal,NF2
+110,C77110,Sagamore Hills Headwater Stream and Wetland Restoration,Sagamore Hills Headwater,SHHE,110_Sagamore Hills Headwater,110_SHHE,TBD,KS,Summit,SUM,no,no,no,no,41.34436,-81.581,a non-focal project,non-focal,NF2
+111,C18111,Chagrin River Headwaters Restoration,Chagrin River Headwater,CRHE,111_Chagrin River Headwater,111_CRHE,TBD,KS,Cuyahoga,CUY,no,no,no,no,41.48947,-81.40456,a non-focal project,non-focal,NF2
+112,C77112,Twinsburg Heights Preserve,Twinsburg Heights,TWIH,112_Twinsburg Heights,112_TWIH,TBD,KS,Summit,SUM,no,no,no,no,41.30794,-81.44984,a non-focal project,non-focal,NF2
+113,C52113,Little Killbuck Watershed Divide,Little Killbuck Creek,LKCR,113_Little Killbuck Creek,113_LKCR,TBD,KS,Medina,MED,no,no,no,no,41.014,-82.044,a non-focal project,non-focal,NF2
+114,W72114,Abraham Forest Riparian Restoration,Abraham Forest,ABRF,114_Abraham Forest,114_ABRF,TBD,,Sandusky,SAN,no,no,no,no,41.2625,-83.0782,a non-focal project,non-focal,NF2
+115,M87115,Howard Island Acquisition & Feasibility Study,Howard Island,HOWI,115_Howard Island,115_HOWI,TBD,,Wood,WOO,no,no,no,no,41.4142,-83.8742,a non-focal project,non-focal,NF2
+116,M35116,Miami and Erie Canal Towpath Wetlands,Maumee River Water Trail,MRWT,116_Maumee River Water Trail,116_MRWT,TBD,,Henry,HEN,no,no,no,no,41.42047,-83.92649,a non-focal project,non-focal,NF2
+117,W32117,"City of Fostoria, Mosier Floodplain Restoration East Branch Portage River",Mosier Floodplain,MOSF,117_Mosier Floodplain,117_MOSF,TBD,,Hancock,HAN,no,no,no,no,41.14172,-83.4223,a non-focal project,non-focal,NF2
+118,M87118,Forrest Tract 5 Wetland Restoration,Forrest Tract 5,FTRA,118_Forrest Tract 5,118_FTRA,TBD,,Wood,WOO,no,no,no,no,41.2251,-84.6607,a non-focal project,non-focal,NF2
+119,M48119,Wiregrass Restoration,Wiregrass Restoration,WIRR,119_Wiregrass Restoration,119_WIRR,TBD,,Lucas,LUC,no,no,no,no,41.614,-83.817,a non-focal project,non-focal,NF2
+120,M87138,Schleivert Farm,Schleivert Farm,SCHF,120_Schleivert Farm,120_SCHF,,,Wood,WOO,no,,no,,41.5205,-83.2963,a non-focal project,non-focal,
+121,C18121,Lakefront Reservation Green Infrastructure (CHEERS),Lakefront Reservation,LAKR,121_Lakefront Reservation,121_LAKR,TBD,,Cuyahoga,CUY,no,no,no,no,41.4898,-81.737,a non-focal project,non-focal,NF2
+122,S60122,Dillon Reservoir Wetland Treatment Train,Dillon Reservoir,DILR,122_Dillon Reservoir,122_DILR,TBD,KS,Muskingum,MUS,no,no,no,no,40.0039,-82.1163,a non-focal project,non-focal,NF2
+123,C43201,Grand River Casement Floodplain Restoration Project,Grand River Floodplain,GRFL,123_Grand River Floodplain,123_GRFL,,,Lake,LAK,no,,no,,41.733,-81.2324,a non-focal project,non-focal,
+124,S77202,Rosemont Preserve Tributary,Rosemont Preserve,ROSP,124_Rosemont Preserve,124_ROSP,,,Summit,SUM,no,,no,,41.1296,-81.63,a non-focal project,non-focal,
+125,S09203,Trenton Woodsdale Restoration & Recreation Area,Trenton Woodsdale,TREW,125_Trenton Woodsdale,125_TREW,,,Butler,BUT,no,,no,,39.4336,-84.4711,a non-focal project,non-focal,
+126,S05204,Sunday Creek Floodplain and Riparian Restoration,Sunday Creek Floodplain,SCFL,126_Sunday Creek Floodplain,126_SCFL,,,Athens,ATH,no,,no,,39.4818,-82.0749,a non-focal project,non-focal,
+127,C43205,Talcott Creek Restoration Project,Talcott Creek Restoration,TCRE,127_Talcott Creek Restoration,127_TCRE,,,Lake,LAK,no,,no,,41.6902,-81.0621,a non-focal project,non-focal,
+128,C28206,City of Akron Wetland Restoration,Akron Wetland,AKRW,128_Akron Wetland,128_AKRW,,,Geauga,GEA,no,,no,,41.4195,-81.1821,a non-focal project,non-focal,
+129,W62129,Dobbelaire Wetland Diversion,Dobbelaire Wetland,DOBW,129_Dobbelaire Wetland,129_DOBW,TBD,,Ottawa,OTT,no,no,no,no,41.5631,-83.1881,a non-focal project,non-focal,NF2
+130,W72130,Gonya Farms Ag Drainage Treatment,Gonya Farms,GONF,130_Gonya Farms,130_GONF,TBD,,Sandusky,SAN,no,no,no,no,41.4397,-83.053,a non-focal project,non-focal,NF2
+131,W62131,Kontz Wetland Enhancement,Kontz Wetland,KONW,131_Kontz Wetland,131_KONW,TBD,,Ottawa,OTT,no,no,no,no,41.5938,-83.1548,a non-focal project,non-focal,NF2
+132,W62132,Marinewood Treatment Wetland,Marinewood Wetland,MARW,132_Marinewood Wetland,132_MARW,TBD,,Ottawa,OTT,no,no,no,no,41.514,-83.0203,a non-focal project,non-focal,NF2
+133,W62133,West Lake Shooting Club Wetland Enhancement,West Lake Shooting Club,WLSC,133_West Lake Shooting Club,133_WLSC,TBD,,Ottawa,OTT,no,no,no,no,41.4939,-83.0516,a non-focal project,non-focal,NF2
+134,W62134,Nemecek Wetland Diversion,Nemecek Wetland,NEMW,134_Nemecek Wetland,134_NEMW,TBD,,Ottawa,OTT,no,no,no,no,41.5099,-83.0246,a non-focal project,non-focal,NF2
+135,W72135,Aldrich Pond Wetland Enhancement,Aldrich Pond,ALDP,135_Aldrich Pond,135_ALDP,TBD,,Sandusky,SAN,no,no,no,no,41.4508,-83.2523,a non-focal project,non-focal,NF2
+136,M02136,Village of Harrod Wetland Restoration,Harrod Wetland,HARW,136_Harrod Wetland,136_HARW,TBD,,Allen,ALL,no,no,no,no,40.7074,-83.925,a non-focal project,non-focal,NF2
+137,M63137,Little Auglaize Wildlife Reserve Project,Little Auglaize Wildlife Reserve,LAWR,137_Little Auglaize Wildlife Reserve,137_LAWR,TBD,,Paulding,PAU,no,no,no,no,41.0412,-84.3879,a non-focal project,non-focal,NF2
+138,M02138,Allen County Riparian Buffer Installation,Allen County Riparian Buffer,ACRB,138_Allen County Riparian Buffer,138_ACRB,TBD,,Allen,ALL,no,no,no,no,40.8605,-84.073,a non-focal project,non-focal,
+139,M48139,Delaware Creek Rain Gardens Retrofit,Delaware Creek Rain Gardens,DCRG,139_Delaware Creek Rain Gardens,139_DCRG,TBD,,Lucas,LUC,no,no,no,no,41.6069,-83.6021,a non-focal project,non-focal,NM
+140,S65140,Scioto Floodplain Restoration,Scioto Floodplain,SCIF,140_Scioto Floodplain,140_SCIF,,,Pickaway,PIC,no,,no,,39.731,-83.004,a non-focal project,non-focal,
+141,S85141,Killbuck Reconnection,Killbuck Reconnection,KIRE,141_Killbuck Reconnection,141_KIRE,TBD,,Wayne,WAY,no,no,no,no,40.6824,-81.972,a non-focal project,non-focal,NM
+142,W32142,Van Buren Dam Removal and Floodplain Wetland Restoration Phase 1,Van Buren Floodplain,VBFL,142_Van Buren Floodplain,142_VBFL,TBD,,Hancock,HAN,no,no,no,no,41.1338,-83.6447,a non-focal project,non-focal,NM
+143,W48143,Village of Ottawa Hills H2Ohio Project,Village of Ottawa Hills,VOHI,143_Village of Ottawa Hills,143_VOHI,TBD,,Lucas,LUC,no,no,no,no,41.6672,-83.6394,a non-focal project,non-focal,NM
+144,W48144,City of Oregon Wolf Creek Floodplain Restoration,Wolf Creek Floodplain,WCFL,144_Wolf Creek Floodplain,144_WCFL,TBD,,Lucas,LUC,no,no,no,no,41.6481,-83.4207,a non-focal project,non-focal,NM
+145,W74145,Funk-DeWald Nature Preserve Restoration,Funk-DeWald,FDWA,145_Funk-DeWald,145_FDWA,TBD,HU,Seneca,SEN,no,no,no,no,41.1158,-83.2854,a non-focal project,non-focal,NF1
+146,W62146,Packer Creek Wetland Restoration (Wehner),Packer Creek Restoration,PCRE,146_Packer Creek Restoration,146_PCRE,TBD,,Ottawa,OTT,no,no,no,no,41.5792,-83.1891,a non-focal project,non-focal,NM
+147,W62147,Ottawa Wetland Restoration (Libben Farms),Ottawa Wetland Restoration,OWRE,147_Ottawa Wetland Restoration,147_OWRE,TBD,,Ottawa,OTT,no,no,no,no,41.5142,-83.0303,a non-focal project,non-focal,NM
+148,W74148,Hedges-Boyer Park Wetland,Tiffin Boyer Park,TBPA,148_Tiffin Boyer Park,148_TBPA,TBD,,Seneca,SEN,no,no,no,no,41.1044,-83.1561,a non-focal project,non-focal,NM
+149,C78149,Sugar Island Preserve North,Sugar Island Preserve North,SIPN,149_Sugar Island Preserve North,149_SIPN,TBD,,Trumbull,TRU,no,no,no,no,41.4772,-80.8271,a non-focal project,non-focal,NM
+150,W48150,Hill Ditch at TPS Natural Science & Tech Academy,Hill Ditch,HILD,150_Hill Ditch,150_HILD,TBD,,Lucas,LUC,no,no,no,no,41.667,-83.6747,a non-focal project,non-focal,NM
+151,M02151,Huber Floodplain Reconnection,Hubber Floodplain,HUBF,151_Hubber Floodplain,151_HUBF,TBD,,Allen,ALL,no,no,no,no,40.7471,-84.3145,a non-focal project,non-focal,NM
+152,W72152,Pickerel Creek East Barrier Wetland,Pickerel East,PICE,152_Pickerel East,152_PICE,TBD,,Sandusky,SAN,yes,no,no,no,41.4201,-82.926,a non-focal project,non-focal,NM
+153,W72153,Pickerel Creek West Barrier Wetland #4,Pickerel West,PICW,153_Pickerel West,153_PICW,TBD,,Sandusky,SAN,yes,no,no,no,41.5504,-83.2203,a non-focal project,non-focal,NM
+154,S46154,Indian Lake State Park Campground Wetland Restoration,Indian Lake Wetland Restoration,ILWR,154_Indian Lake Wetland Restoration,154_ILWR,TBD,,Logan,LOG,no,no,no,no,40.513,-83.9025,a non-focal project,non-focal,NM
+155,S78155,Kinsman Wetlands Enhancement Project,Kinsman Wetlands,KINW,155_Kinsman Wetlands,155_KINW,TBD,,Trumbull,TRU,no,no,no,no,41.4475,-80.5438,a non-focal project,non-focal,NM
+156,S40156,Franklin Valley Wetlands Restoration,Franklin Valley Wetlands,FVWE,156_Franklin Valley Wetlands,156_FVWE,TBD,,Jackson,JAC,no,no,no,no,39.0118,-82.6066,a non-focal project,non-focal,NM
+157,S04157,Andover Meadows Wetland Restoration,Andover Meadows,ANDM,157_Andover Meadows,157_ANDM,TBD,,Ashtabula,ATB,no,no,no,no,41.5995,-80.5561,a non-focal project,non-focal,NM
+158,S77158,Pigeon Creek Preserve Preservation and Restoration,Pigeon Creek,PIGC,158_Pigeon Creek,158_PIGC,TBD,,Summit,SUM,no,no,no,no,41.0984,-81.5966,a non-focal project,non-focal,NM
+159,S83159,Simpson Creek Headwaters Restoration at Landen-Deerfield Park,Simpson Creek,SIMC,159_Simpson Creek,159_SIMC,TBD,,Warren,WAR,no,no,no,no,39.3156,-84.2636,a non-focal project,non-focal,NM
+160,S23160,Two Glaciers Wetland Restoration,Two Glaciers,TWOG,160_Two Glaciers,160_TWOG,TBD,,Fairfield,FAI,no,no,no,no,39.6147,-82.6734,a non-focal project,non-focal,NM
+161,S38161,Crane Swamp Preserve & Riparian Wetland Restoration,Crane Swamp,CRAS,161_Crane Swamp,161_CRAS,TBD,,Holmes,HOL,no,no,no,no,40.4588,-81.9736,a non-focal project,non-focal,NM
+162,S25162,Three Creeks Wetland Creation,Three Creeks,THRC,162_Three Creeks,162_THRC,TBD,,Franklin,FRA,no,no,no,no,39.9073,-82.9176,a non-focal project,non-focal,NM
+163,S46163,Darby Corridor Treatment Wetlands,Darby Corridor,DARC,163_Darby Corridor,163_DARC,TBD,,Logan,LOG,no,no,no,no,40.2935,-83.5645,a non-focal project,non-focal,NM
+164,S84164,County Home Creek Stream and Wetland Restoration,County Home,COUH,164_County Home,164_COUH,TBD,,Washington,WAS,no,no,no,no,39.4092,-81.3991,a non-focal project,non-focal,NM
+165,S12165,Rainbow Run Wetland-2,Rainbow Run II,RRII,165_Rainbow Run II,165_RRII,TBD,,Clark,CLA,no,no,no,no,39.8158,-83.8107,a non-focal project,non-focal,NM
+166,M86166,Stryker Golf Course Wetland Restoration Project,Stryker Wetland,STRW,166_Stryker Wetland,166_STRW,TBD,,Williams,WIL,no,no,no,no,41.49826,-84.43796,a non-focal project,non-focal,NM
+167,S23167,Shelly Lakes Wetland Creation and Retention -- Hocking R. Conservation Corridor,Shelly Lakes,SHEL,167_Shelly Lakes,167_SHEL,TBD,,Fairfield,FAI,no,no,no,no,39.6732,-82.5653,a non-focal project,non-focal,NM
+168,C28168,American-Croatian Lodge Dam Removal and Stream Restoration,American-Croatian Lodge,ACLO,168_American-Croatian Lodge,168_ACLO,TBD,,Geauga,GEA,no,no,no,no,41.5636,-81.2844,a non-focal project,non-focal,NM
+169,C47169,Gerber Property Stream and Wetland Restoration,Gerber Property,GERP,169_Gerber Property,169_GERP,TBD,,Lorain,LOR,no,no,no,no,41.348,-82.0151,a non-focal project,non-focal,NM
+170,C43170,Chagrin Floodplain Restoration & Protection (City of Willoughby),Chagrin Floodplain,CHAF,170_Chagrin Floodplain,170_CHAF,TBD,,Lake,LAK,no,no,no,no,41.6318,-81.3517,a non-focal project,non-focal,NM
+171,S85171,West Funk Bottoms Floodplain Wetland Restoration,West Funk Bottoms,WFBO,171_West Funk Bottoms,171_WFBO,TBD,,Wayne,WAY,no,no,no,no,40.7626,-82.1188,a non-focal project,non-focal,NM
+172,M26172,Village of Archbold ARTS,ARTS,ARTS,172_ARTS,172_ARTS,TBD,,Fulton,FUL,no,no,no,no,41.5329,-84.2946,a non-focal project,non-focal,NM
+173,W62173,Madison Treatment Wetland,Madison Wetland,MADW,173_Madison Wetland,173_MADW,TBD,,Ottawa,OTT,no,no,no,no,41.5024,-82.9122,a non-focal project,non-focal,NM
+174,W22174,Mills Creek Floodplain Enhancement,Mills Creek,MILC,174_Mills Creek,174_MILC,TBD,,Erie,ERI,no,no,no,no,41.438,-82.731,a non-focal project,non-focal,NM
+175,S46175,Myeerah Nature Preserve Wetland Restoration,Myeerah Preserve,MYEP,175_Myeerah Preserve,175_MYEP,TBD,,Logan,LOG,no,no,no,no,40.3872,-83.6355,a non-focal project,non-focal,NM
+176,S68176,Aukerman Creek Stream Restoration,Aukerman Creek,AUKC,176_Aukerman Creek,176_AUKC,TBD,,Preble,PRE,no,no,no,no,39.6571,-84.5448,a non-focal project,non-focal,NM
+177,S11177,Westerheide Wetland Restoration,Westerheide Wetland,WSTW,177_Westerheide Wetland,177_WSTW,TBD,,Champaign,CHP,no,no,no,no,40.1003,-83.5288,a non-focal project,non-focal,NM
+178,S55178,Duke Park Riparian Restoration,Duke Park,DUKP,178_Duke Park,178_DUKP,TBD,,Miami,MIA,no,no,no,no,40.0627,-84.2127,a non-focal project,non-focal,NM
+179,M35179,Hickory Grove Wetland Restoration,Hickory Grove,HICG,179_Hickory Grove,179_HICG,TBD,,Henry,HEN,no,no,no,no,41.42264,-83.91547,a non-focal project,non-focal,NM
+180,S45180,Grosse Brothers Treatment Wetland,Grosse Brothers,GROB,180_Grosse Brothers,180_GROB,TBD,,Licking,LIC,no,no,no,no,39.9485,-82.4562,a non-focal project,non-focal,NM
+181,W22181,DuPont SNP Wetland Preservation and Restoration,DuPont Preserve,DUPP,181_DuPont Preserve,181_DUPP,TBD,,Erie,ERI,no,no,no,no,41.3623,-82.5565,a non-focal project,non-focal,NM
+182,W62182,Behnke Farm Wetland Restoration and Water Quality Project,Behnke Farm,BEHF,182_Behnke Farm,182_BEHF,TBD,,Ottawa,OTT,no,no,no,no,41.5614,-83.1165,a non-focal project,non-focal,NM
+183,W62183,Bacak Farm Wetland Restoration and Water Quality Project,Bacak Farm,BACF,183_Bacak Farm,183_BACF,TBD,,Ottawa,OTT,no,no,no,no,41.5284,-83.0463,a non-focal project,non-focal,NM
+184,W62184,Meinke Wetland Restoration,Meinke Wetland,MEIW,184_Meinke Wetland,184_MEIW,TBD,,Ottawa,OTT,no,no,no,no,41.6165,-83.2667,a non-focal project,non-focal,NM
+185,W62185,Apling-Verb Ag. Water Quality Improvement Project,Apling-Verb,APLV,185_Apling-Verb,185_APLV,TBD,,Ottawa,OTT,no,no,no,no,41.5997,-83.1137,a non-focal project,non-focal,NM
+186,W48186,"Mallard Club, Sauter Ditch Phase",Mallard Club Sauter Ditch,MCSD,186_Mallard Club Sauter Ditch,186_MCSD,TBD,,Lucas,LUC,no,no,no,no,41.6785,-83.347,a non-focal project,non-focal,NM
+187,W22187,Tower Marsh Wetland Enhancement,Tower Marsh,TOWM,187_Tower Marsh,187_TOWM,TBD,,Erie,ERI,no,no,no,no,41.46212,-82.8183,a non-focal project,non-focal,NM
+188,W48188,Tenmile Headwaters Shull Floodplain Restoration,Tenmile Headwaters,TENH,188_Tenmile Headwaters,188_TENH,TBD,,Lucas,LUC,no,no,no,no,41.7187,-83.8585,a non-focal project,non-focal,NM
+189,W48189,Williams Ditch Restoration,Williams Ditch Restoration,WDRE,189_Williams Ditch Restoration,189_WDRE,TBD,,Lucas,LUC,no,no,no,no,41.6408,-83.6225,a non-focal project,non-focal,NM
+190,W26190,Maumee State Forest Thomas Project,Maumee State Forest,MSFO,190_Maumee State Forest,190_MSFO,TBD,,Fulton,FUL,no,no,no,no,41.5036,-83.9077,a non-focal project,non-focal,NM
+191,W17191,Unger Park Restoration,Unger Park,UNGP,191_Unger Park,191_UNGP,TBD,,Crawford,CRA,no,no,no,no,40.8049,-82.994,a non-focal project,non-focal,NM
+192,W86192,Double J Farms,Double J Farms,DJFA,192_Double J Farms,192_DJFA,TBD,,Williams,WIL,no,no,no,no,41.6533,-84.7302,a non-focal project,non-focal,NM
+193,S38193,Bowfin Bottom Riparian Wetland Restoration,Bowfin Bottom,BOWB,193_Bowfin Bottom,193_BOWB,TBD,,Holmes,HOL,no,no,no,no,40.4547,-81.9633,a non-focal project,non-focal,NM
+194,S12194,Rainbow Run III,Rainbow Run III,RRTH,194_Rainbow Run III,194_RRTH,TBD,,Clark,CLA,no,no,no,no,39.8197,-83.823,a non-focal project,non-focal,NM
+195,S29195,Anderson Fork Floodplain and Wetland Restoration,Anderson Fork Floodplain,AFFL,195_Anderson Fork Floodplain,195_AFFL,TBD,,Greene,GRE,no,no,no,no,39.5779,-83.9417,a non-focal project,non-focal,NM
+196,S25196,Prairie Oaks H2Ohio Wetland,Prairie Oaks,PRAO,196_Prairie Oaks,196_PRAO,TBD,,Franklin,FRA,no,no,no,no,40.0339,-83.2552,a non-focal project,non-focal,NM
+197,S49197,Little Darby H2Ohio Project,Little Darby,LITD,197_Little Darby,197_LITD,TBD,,Madison,MAD,no,no,no,no,39.9064,-83.2532,a non-focal project,non-focal,NM
+198,S70198,Clear Fork Mohican River Wetland Restoration,Clear Fork Mohican,CFMO,198_Clear Fork Mohican,198_CFMO,TBD,,Richland,RIC,no,no,no,no,40.64,-82.5455,a non-focal project,non-focal,NM
+199,S70199,Black Fork Oxbow Reconnection & Wetland Restoration,Black Fork Oxbow,BFOX,199_Black Fork Oxbow,199_BFOX,TBD,,Richland,RIC,no,no,no,no,40.8049,-82.4237,a non-focal project,non-focal,NM
+200,W87200,Rocky Ford WPA,Rocky Ford,ROCF,200_Rocky Ford,200_ROCF,TBD,,Wood,WOO,no,no,no,no,41.2648,-83.64322,a non-focal project,non-focal,NM
+201,S21200,Big Walnut Creek Wetland and Floodplain Restoration,Big Walnut Creek,BWCR,201_Big Walnut Creek,201_BWCR,TBD,,Delaware,DEL,no,no,no,no,40.2283,-82.8646,a non-focal project,non-focal,NM
+202,M63202,Carrol Floodplain Restoration,Carrol Floodplain,CARF,202_Carrol Floodplain,202_CARF,TBD,,Paulding,PAU,no,no,no,no,41.186,-84.7691,a non-focal project,non-focal,NM
+203,M63203,Black Swamp Nature Center,Black Swamp Nature Center,BSNC,203_Black Swamp Nature Center,203_BSNC,TBD,,Paulding,PAU,no,no,no,no,41.1269,-84.5891,a non-focal project,non-focal,NM
+204,W62204,Toussaint Creek / Schiller Site Restoration,Toussaint Creek Schiller,TCSC,204_Toussaint Creek Schiller,204_TCSC,TBD,,Ottawa,OTT,no,no,no,no,41.5513,-83.2075,a non-focal project,non-focal,NM
+205,S52205,Yellow Creek Headwaters Preserve Conservation and Restoration,Yellow Creek Headwaters,YCHE,205_Yellow Creek Headwaters,205_YCHE,TBD,,Medina,MED,no,no,no,no,41.1428,-81.6874,a non-focal project,non-focal,NM
+206,W87206,Henry Creek Wetland and Floodplain Restoration,Henry Creek,HENC,206_Henry Creek,206_HENC,TBD,,Wood,WOO,no,no,no,no,41.5222,-83.5085,a non-focal project,non-focal,NM
+207,W20207,Thoreau Nature Preserve,Thoreau,THOR,207_Thoreau,207_THOR,TBD,,Defiance,DEF,no,no,no,no,41.3041,-84.398,a non-focal project,non-focal,NM
+208,W86208,Houk Wetlands,Houk Wetlands,HOUK,208_Houk Wetlands,208_HOUK,TBD,,Williams,WIL,no,no,no,no,,,,,
